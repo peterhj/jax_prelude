@@ -1,0 +1,13 @@
+[project]
+name = "jax_prelude"
+dynamic = ["version"]
+description = "jax prelude"
+#requires-python = ">=3.10"
+authors = [
+    { name = "Peter Jin" },
+]
+#keywords = []
+#classifiers = []
+dependencies = [
+  "jax>=0.4",
+]
